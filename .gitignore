@@ -67,3 +67,4 @@ cmake-*
 *_pb2.py
 
 toolchain-*
+output/
